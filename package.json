@@ -1,0 +1,15 @@
+{
+  "name": "screencapture",
+  "version": "1.0.0",
+  "description": "screen capture for Code-dot-org",
+  "main": "script.js",
+  "dependencies": {
+    "puppeteer": "^0.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
